@@ -1,9 +1,9 @@
-# Портфолио бизнес/системного аналитика — School 21 (Сбер)
+# Портфолио системного аналитика — School 21 (Сбер)
 
 Артефакты системного анализа, выполненные в рамках трека «Системный анализ» School 21 (Сбер) — от сбора требований до моделирования данных и бизнес-процессов. 
 
 **Арег Дерцян**
-<br>✉️ areg.abraamyan.0@mail.ru <br> 💬 [Telegram](https://t.me/AVanLore)
+<br>✉️ areg.abraamyan.0@mail.ru <br> 💬 [Telegram](https://t.me/AVanLore) <br> 📄 [Резюме](https://drive.google.com/file/d/18QWB0C1LQd8nOi37dhtr-aaeITjiFr-p/view?usp=drive_link)
 
 ---
 
